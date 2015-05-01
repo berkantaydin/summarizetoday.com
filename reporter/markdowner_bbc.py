@@ -20,7 +20,7 @@ slug = slugify(title)
 
 print(slug)
 
-with open("/tmp/%s" % slug, "a") as fx:
+with open("/tmp/%s.md" % slug, "a") as fx:
     fx.write("Title: %s\n" % title)
     fx.write("Date: %s\n" % dt)
     fx.write("Category: %s\n" % category)
