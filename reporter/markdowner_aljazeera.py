@@ -12,7 +12,7 @@ CONTENT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'con
 def run(url):
     data = summarize.summarize_page(url)
 
-    title = data.title.split(' - BBC News')[0]
+    title = data.title.split(' - Al Jazeera')[0]
     dt = time.strftime('%Y-%m-%d %H:%M')
     category = "news"
     tags = "bbc"
@@ -20,14 +20,17 @@ def run(url):
     content = "\n\n".join(data.summaries)
     slug = slugify(title)
 
+    print("Creating: %s" % slug)
+
     dr = time.strftime('%Y/%m/%d')
     full_things_of_file = os.path.join(CONTENT_DIR, dr, "%s.md" % slug)
 
     if os.path.exists(full_things_of_file):
         print('Report already exist.')
-        sys.exit(1)
+        return False
 
     if not os.path.exists(dr):
+        print('Date DIRs created.')
         os.makedirs(dr)
 
     with open(full_things_of_file, "a") as fx:
@@ -42,6 +45,7 @@ def run(url):
         fx.write("\n")
         fx.write("%s" % content)
 
+    print('Created: %s' % slug)
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
