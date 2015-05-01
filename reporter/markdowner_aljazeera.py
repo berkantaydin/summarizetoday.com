@@ -20,6 +20,9 @@ def run(url):
     content = "\n\n".join(data.summaries)
     slug = slugify(title)
 
+    if "error" in slug:
+        return False
+
     print("Creating: %s" % slug)
 
     dr = time.strftime('%Y/%m/%d')
