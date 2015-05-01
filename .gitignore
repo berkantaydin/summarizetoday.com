@@ -61,3 +61,8 @@ target/
 
 ## Directory-based project format:
 .idea/
+
+## Pelican files
+output/
+cache/
+*.pid

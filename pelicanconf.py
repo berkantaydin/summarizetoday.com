@@ -6,6 +6,8 @@ AUTHOR = u'jarvis'
 SITENAME = u'Summarize Today'
 SITEURL = ''
 
+# https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
+THEME = 'themes/pelican-bootstrap3'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
@@ -14,7 +16,7 @@ DEFAULT_LANG = u'en'
 
 #Github Domain Settins
 STATIC_PATHS = ['images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -24,16 +26,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('BA', 'http://berkantaydin.com.tr'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/wwwsrc'),
+          ('linkedin', 'https://www.linkedin.com/in/berkantaydin'),)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Theme Options
+GOOGLE_ANALYTICS_UNIVERSAL = 'UA-62525705-1'
+GOOGLE_ANALYTICS_UNIVERSAL_PROPERTY = 'auto'
+DISQUS_SITENAME = 'summarizetoday'
