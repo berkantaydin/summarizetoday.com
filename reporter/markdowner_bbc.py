@@ -12,8 +12,8 @@ data = summarize.summarize_page(url)
 
 title = data.title.split(' - BBC News')[0]
 dt = time.strftime('%Y-%m-%d %H:%M')
-category = "bbc news"
-tags = "bbc news"
+category = "news"
+tags = "bbc"
 url = data.url
 content = "\n\n".join(data.summaries)
 slug = slugify(title)

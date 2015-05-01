@@ -1,7 +1,7 @@
 Title: Nepal quake: Towns near epicentre 'devastated' - Red Cross
 Date: 2015-05-01 15:08
-Category: bbc news
-Tags: bbc news
+Category: news
+Tags: bbc
 Slug: nepal-quake-towns-near-epicentre-devastated-red-cross
 Author: jarvis
 
