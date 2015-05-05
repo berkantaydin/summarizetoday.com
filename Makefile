@@ -108,6 +108,7 @@ github: publish
 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git gh-pages > /dev/null
 
 reporters:
+	python reporter/department_chef.py
 	python reporter/markdowner_livescores.py
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github reporters

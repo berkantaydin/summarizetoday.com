@@ -25,8 +25,8 @@ def run(url):
 
     print("Creating: %s" % slug)
 
-    dr = time.strftime('%Y/%m/%d')
-    full_things_of_file = os.path.join(CONTENT_DIR, dr, "%s.md" % slug)
+    dr = os.path.join(CONTENT_DIR, time.strftime('%Y/%m/%d'))
+    full_things_of_file = os.path.join(dr, "%s.md" % slug)
 
     if os.path.exists(full_things_of_file):
         print('Report already exist.')
