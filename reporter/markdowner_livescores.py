@@ -57,7 +57,7 @@ def run():
 
             if os.path.exists(full_things_of_file):
                 print('Report already exist.')
-                return False
+                continue
 
             if not os.path.exists(dr):
                 print('Date DIRs created.')
