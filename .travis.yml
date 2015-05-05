@@ -9,7 +9,6 @@ install:
 - pip install ghp-import
 - pip install lxml requests slugify python-slugify
 script:
-- make reporters
 - make github
 notifications:
   email:
