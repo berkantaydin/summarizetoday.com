@@ -14,10 +14,9 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-#Github Domain Settins
+#Github Domain Settings
 STATIC_PATHS = ['images', 'extra/CNAME', 'pages']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
-                       'pages/privacypolicy.html': {'path': 'privacypolicy.html'}}
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -25,6 +24,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+TAG_CLOUD_MAX_ITEMS = 20
 
 # Blogroll
 LINKS = (('BA', 'http://berkantaydin.com.tr'),)
