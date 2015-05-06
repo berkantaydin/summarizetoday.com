@@ -15,8 +15,9 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'en'
 
 #Github Domain Settins
-STATIC_PATHS = ['images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
+STATIC_PATHS = ['images', 'extra/CNAME', 'pages']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+                       'pages/privacypolicy.html': {'path': 'privacypolicy.html'}}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
