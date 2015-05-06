@@ -15,7 +15,7 @@ def run(url):
     title = data.title.split(' - Al Jazeera')[0]
     dt = time.strftime('%Y-%m-%d %H:%M')
     category = "news"
-    tags = "bbc"
+    tags = "aljazeera"
     url = data.url
     content = "\n\n".join(data.summaries)
     slug = slugify(title)
