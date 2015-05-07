@@ -1,0 +1,9 @@
+Title: Atletico PR vs. Tupi, 2015/05/06
+Date: 2015-05-07 11:13
+Category: sports
+Tags: football, football scores, Atletico PR, Tupi
+Slug: atletico-pr-vs-tupi-2015-05-06
+Author: carbonero
+
+
+Atletico PR 2 - 1 Tupi
