@@ -111,4 +111,10 @@ reporters:
 	python reporter/department_chef.py
 	python reporter/markdowner_livescores.py
 
+run:
+	make reporters
+	git add .
+	git commit -am "`date`"
+	git push origin master	
+
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github reporters
