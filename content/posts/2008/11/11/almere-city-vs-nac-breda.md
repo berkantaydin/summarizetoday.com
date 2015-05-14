@@ -1,0 +1,12 @@
+Title: Almere City vs. NAC Breda, 2008/11/11
+Date: 2008/11/11 00:00
+Category: sports
+Tags: football, football scores, Almere City, NAC Breda
+Slug: almere-city-vs-nac-breda
+Author: carbonero
+
+
+Almere City 0 - 1 NAC Breda
+<table class="table table-striped table-hover"><thead><tr><th align="left">minute</th><th align="left">event</th><th align="left">info</th></tr></thead><tbody>
+<tr><td align="left">90'</td><td align="left"><img src="/images/sports/football/events/G.png" /></td><td align="left">M. Amoah has scored a goal for NAC Breda!</td></tr>
+</tr></tbody></table>

@@ -109,7 +109,10 @@ github: publish
 
 reporters:
 	python reporter/department_chef.py
-	python reporter/markdowner_livescores.py
+	#python reporter/markdowner_livescores.py
+	python reporter/sb/runner.py
+	python reporter/sb/commentary.py
+	python reporter/sb/markdowner.py
 
 run:
 	make reporters

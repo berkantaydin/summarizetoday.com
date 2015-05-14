@@ -1,0 +1,26 @@
+Title: Athletic Club vs. Osasuna, 2009/12/19
+Date: 2009/12/19 00:00
+Category: sports
+Tags: football, football scores, Athletic Club, Osasuna
+Slug: athletic-club-vs-osasuna
+Author: carbonero
+
+
+Athletic Club 2 - 0 Osasuna
+<table class="table table-striped table-hover"><thead><tr><th align="left">minute</th><th align="left">event</th><th align="left">info</th></tr></thead><tbody>
+<tr><td align="left">87'</td><td align="left"><img src="/images/sports/football/events/YC.png" /></td><td align="left">Josetxo gets yellow.</td></tr>
+<tr><td align="left">85'</td><td align="left"><img src="/images/sports/football/events/SI.png" /></td><td align="left">Gabilondo enters the game and replaces Toquero.</td></tr>
+<tr><td align="left">82'</td><td align="left"><img src="/images/sports/football/events/YC.png" /></td><td align="left">Oier gets yellow.</td></tr>
+<tr><td align="left">82'</td><td align="left"><img src="/images/sports/football/events/SI.png" /></td><td align="left">K. Vadócz enters the game and replaces J. Nekounam.</td></tr>
+<tr><td align="left">82'</td><td align="left"><img src="/images/sports/football/events/SI.png" /></td><td align="left">Calleja enters the game and replaces Oier.</td></tr>
+<tr><td align="left">81'</td><td align="left"><img src="/images/sports/football/events/YC.png" /></td><td align="left">Xabi Castillo gets yellow.</td></tr>
+<tr><td align="left">79'</td><td align="left"><img src="/images/sports/football/events/YC.png" /></td><td align="left">Toquero gets yellow.</td></tr>
+<tr><td align="left">79'</td><td align="left"><img src="/images/sports/football/events/SI.png" /></td><td align="left">Muniain enters the game and replaces Fran Yeste.</td></tr>
+<tr><td align="left">76'</td><td align="left"><img src="/images/sports/football/events/YC.png" /></td><td align="left">Dady gets yellow.</td></tr>
+<tr><td align="left">74'</td><td align="left"><img src="/images/sports/football/events/SI.png" /></td><td align="left">De Marcos enters the game and replaces Llorente.</td></tr>
+<tr><td align="left">60'</td><td align="left"><img src="/images/sports/football/events/YC.png" /></td><td align="left">Orbaiz gets yellow.</td></tr>
+<tr><td align="left">60'</td><td align="left"><img src="/images/sports/football/events/SI.png" /></td><td align="left">Javi Portillo enters the game and replaces Juanfran.</td></tr>
+<tr><td align="left">32'</td><td align="left"><img src="/images/sports/football/events/YC.png" /></td><td align="left">J. Nekounam gets yellow.</td></tr>
+<tr><td align="left">11'</td><td align="left"><img src="/images/sports/football/events/G.png" /></td><td align="left">Llorente has scored a goal for Athletic Club!</td></tr>
+<tr><td align="left">1'</td><td align="left"><img src="/images/sports/football/events/G.png" /></td><td align="left">Fran Yeste has scored a goal for Athletic Club! Assist by Llorente.</td></tr>
+</tr></tbody></table>

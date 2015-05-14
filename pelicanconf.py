@@ -6,6 +6,9 @@ AUTHOR = u'jarvis'
 SITENAME = u'Summarize Today'
 SITEURL = ''
 
+ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+
 # https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
 THEME = 'themes/pelican-bootstrap3'
 PATH = 'content'

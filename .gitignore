@@ -66,3 +66,6 @@ target/
 output/
 cache/
 *.pid
+
+## Private Reporters
+reporter/sb/

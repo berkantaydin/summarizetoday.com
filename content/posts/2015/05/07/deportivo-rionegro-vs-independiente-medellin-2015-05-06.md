@@ -1,9 +1,0 @@
-Title: Deportivo Rionegro vs. Independiente Medellin, 2015/05/06
-Date: 2015-05-07 11:13
-Category: sports
-Tags: football, football scores, Deportivo Rionegro, Independiente Medellin
-Slug: deportivo-rionegro-vs-independiente-medellin-2015-05-06
-Author: carbonero
-
-
-Deportivo Rionegro 0 - 1 Independiente Medellin
