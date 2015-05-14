@@ -18,16 +18,12 @@ error_handler() {
   exit 1
 }
 # If an error occurs, run our error handler to output a tail of the build
-# trap 'error_handler ${LINENO} $? ' ERR
 
 # Set up a repeating loop to send some output to Travis.
 
 bash -c "while true; do echo \$(date) - building ...; sleep $PING_SLEEP; done" &
 PING_LOOP_PID=$!
 
-# My build is using maven, but you could build anything with this, E.g.
-# your_build_command_1 >> $BUILD_OUTPUT 2>&1
-# your_build_command_2 >> $BUILD_OUTPUT 2>&1
 make github >> $BUILD_OUTPUT 2>&1
 
 # The build finished without returning an error so dump a tail of the output
