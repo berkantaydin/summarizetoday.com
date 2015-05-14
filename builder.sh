@@ -2,7 +2,7 @@
 # Abort on Error
 set -e
 
-export PING_SLEEP=30s
+export PING_SLEEP=50s
 export WORKDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 export BUILD_OUTPUT=$WORKDIR/build.out
 
@@ -18,7 +18,7 @@ error_handler() {
   exit 1
 }
 # If an error occurs, run our error handler to output a tail of the build
-trap 'error_handler ${LINENO} $? ' ERR
+# trap 'error_handler ${LINENO} $? ' ERR
 
 # Set up a repeating loop to send some output to Travis.
 
