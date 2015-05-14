@@ -1,0 +1,9 @@
+Title: Celtic vs. Rangers, 1995/09/30
+Date: 1995/09/30 00:00
+Category: sports
+Tags: football, football scores, Celtic, Rangers
+Slug: celtic-vs-rangers
+Author: carbonero
+
+
+Celtic 0 - 2 Rangers

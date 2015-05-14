@@ -1,0 +1,9 @@
+Title: Queens Park Ra… vs. Watford, 1986/08/26
+Date: 1986/08/26 00:00
+Category: sports
+Tags: football, football scores, Queens Park Ra…, Watford
+Slug: queens-park-ra-vs-watford
+Author: carbonero
+
+
+Queens Park Ra… 3 - 2 Watford

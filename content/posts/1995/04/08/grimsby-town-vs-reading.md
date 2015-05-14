@@ -1,0 +1,9 @@
+Title: Grimsby Town vs. Reading, 1995/04/08
+Date: 1995/04/08 00:00
+Category: sports
+Tags: football, football scores, Grimsby Town, Reading
+Slug: grimsby-town-vs-reading
+Author: carbonero
+
+
+Grimsby Town 1 - 0 Reading

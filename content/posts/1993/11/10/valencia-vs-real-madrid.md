@@ -1,0 +1,9 @@
+Title: Valencia vs. Real Madrid, 1993/11/10
+Date: 1993/11/10 00:00
+Category: sports
+Tags: football, football scores, Valencia, Real Madrid
+Slug: valencia-vs-real-madrid
+Author: carbonero
+
+
+Valencia 0 - 3 Real Madrid
