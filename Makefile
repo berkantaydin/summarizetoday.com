@@ -116,7 +116,7 @@ reporters:
 
 run:
 	make reporters
-	git add .
+	git add content/
 	git commit -am "`date`"
 	git push origin master	
 
