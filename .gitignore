@@ -69,3 +69,6 @@ cache/
 
 ## Private Reporters
 reporter/sb/
+
+## For travis
+build.out

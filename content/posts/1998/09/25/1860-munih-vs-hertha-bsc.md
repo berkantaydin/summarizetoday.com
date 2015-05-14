@@ -1,0 +1,9 @@
+Title: 1860 Münih vs. Hertha BSC, 1998/09/25
+Date: 1998/09/25 00:00
+Category: sports
+Tags: football, football scores, 1860 Münih, Hertha BSC
+Slug: 1860-munih-vs-hertha-bsc
+Author: carbonero
+
+
+1860 Münih 2 - 0 Hertha BSC

@@ -1,0 +1,9 @@
+Title: Atalanta vs. Napoli, 1998/02/15
+Date: 1998/02/15 00:00
+Category: sports
+Tags: football, football scores, Atalanta, Napoli
+Slug: atalanta-vs-napoli
+Author: carbonero
+
+
+Atalanta 1 - 0 Napoli

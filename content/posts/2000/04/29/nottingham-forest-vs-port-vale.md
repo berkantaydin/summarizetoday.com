@@ -1,0 +1,9 @@
+Title: Nottingham Forest vs. Port Vale, 2000/04/29
+Date: 2000/04/29 00:00
+Category: sports
+Tags: football, football scores, Nottingham Forest, Port Vale
+Slug: nottingham-forest-vs-port-vale
+Author: carbonero
+
+
+Nottingham Forest 2 - 0 Port Vale

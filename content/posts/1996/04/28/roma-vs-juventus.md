@@ -1,0 +1,9 @@
+Title: Roma vs. Juventus, 1996/04/28
+Date: 1996/04/28 00:00
+Category: sports
+Tags: football, football scores, Roma, Juventus
+Slug: roma-vs-juventus
+Author: carbonero
+
+
+Roma 2 - 2 Juventus
