@@ -22,11 +22,11 @@ STATIC_PATHS = ['images', 'extra/CNAME', 'pages']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+FEED_ALL_ATOM = False
+CATEGORY_FEED_ATOM = False
+TRANSLATION_FEED_ATOM = False
+AUTHOR_FEED_ATOM = False
+AUTHOR_FEED_RSS = False
 TAG_CLOUD_MAX_ITEMS = 20
 
 # Blogroll
