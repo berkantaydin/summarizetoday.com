@@ -1,0 +1,9 @@
+Title: Elche vs. Numancia, 2005/01/12
+Date: 2005/01/12 00:00
+Category: sports
+Tags: football, football scores, Elche, Numancia
+Slug: elche-vs-numancia
+Author: carbonero
+
+
+Elche 1 - 0 Numancia

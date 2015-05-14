@@ -1,0 +1,9 @@
+Title: Twente vs. Ajax, 2003/12/21
+Date: 2003/12/21 00:00
+Category: sports
+Tags: football, football scores, Twente, Ajax
+Slug: twente-vs-ajax
+Author: carbonero
+
+
+Twente 2 - 0 Ajax

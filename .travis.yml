@@ -9,7 +9,7 @@ install:
 - pip install ghp-import
 - pip install lxml requests slugify python-slugify
 script:
-- make github
+- travis_wait make github
 notifications:
   email:
     on_success: always
